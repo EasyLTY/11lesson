@@ -1,0 +1,55 @@
+.flex{
+	display: flex;
+}
+h1{
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+}
+p{
+	font-size: 20px;
+	font-family: arial;
+	color: white;
+	text-align: center;
+}
+.bg{
+	background-image: url(banner.png);
+	height: 600px;
+	background-size: 100% 100%;
+}
+.die{
+	margin-left: auto;
+	margin-right: auto;
+	height: 230px;
+}
+.flaer{
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.infor{
+	height: 350px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.pinfo{
+	height: 320px;
+	width: 350px;
+	margin-left: 35px;
+	margin-top: 10px;
+}
+.podinfo{
+	background-color: blue;
+	height: 120px;
+	width: 330px;
+	margin-top: 30px;
+}
+h2{
+	font-size: 15px;
+	font-family: arial;
+	margin-left: 45px;
+}
